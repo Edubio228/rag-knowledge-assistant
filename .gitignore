@@ -1,6 +1,33 @@
+# Virtual Environment
 venv/
+env/
+.venv/
+
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Environment variables (CRITICAL!)
 .env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# Docker volumes
+chroma_db/
+chroma_db/
+
+# Logs
 *.log
+logs/
+
+# OS files
 .DS_Store
+Thumbs.db
+
+# Optional: Debug files you don't want to commit
+debug_retrieval.py
