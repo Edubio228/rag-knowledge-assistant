@@ -3,14 +3,13 @@ uvicorn
 python-dotenv
 langchain
 langchain-community
-langchain-openai      
-sentence-transformers     
+langchain-openai
+langchain-chroma          
+sentence-transformers
 chromadb
 boto3
 redis
 pypdf
-pytest
-streamlit
 pymupdf
 requests
 pydantic
