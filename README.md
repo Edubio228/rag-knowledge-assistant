@@ -286,6 +286,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Email: edubioemm@gmail.com
 
 Project Link: https://github.com/Edubio228/rag-knowledge-assistant
+https://rag-knowledge-assistant-yi6h.onrender.com/
 
 ---
 
