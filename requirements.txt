@@ -4,7 +4,8 @@ python-dotenv
 langchain
 langchain-community
 langchain-openai
-langchain-chroma          
+langchain-chroma        
+langchain-huggingface    
 sentence-transformers
 chromadb
 boto3
